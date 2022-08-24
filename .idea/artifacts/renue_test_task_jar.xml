@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="renue-test-task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/renue_test_task_jar</output-path>
+    <root id="archive" name="renue-test-task.jar">
+      <element id="module-output" name="renue-test-task" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-csv/1.9.0/commons-csv-1.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
